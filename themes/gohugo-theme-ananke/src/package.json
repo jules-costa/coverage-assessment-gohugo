@@ -9,7 +9,7 @@
   "scripts": {
     "build:production": "rm -rf ../static/dist && webpack -p",
     "build": "webpack --progress --colors --watch",
-    "start": "npm run build:production"
+    "start": "npm run build"
   },
   "devDependencies": {
     "babel-core": "^6.24.1",
