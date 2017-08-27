@@ -1,7 +1,7 @@
 # buildDrafts = false
 
 title = "Coverage Assessment"
-baseURL = "http://bookie-colin-65501.netlify.com/"
+baseURL = "http://www.coverageassessment.com/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 # themesDir = "../.."
