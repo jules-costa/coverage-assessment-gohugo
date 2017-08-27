@@ -14,11 +14,11 @@ A statement on this certificate does not confer rights to the certificate holder
 
 Insurance brokers and their strong associations have laid down and acquiesced to the demands of the customer.
 
-Big client or big client’s customer: “Give me a cert! Include extra language like ‘additional insured’, ‘Waiver of Subrogation’, ‘primary and non-contributory’, and whatever else I want it to say!”
+__Big client or big client’s customer__: “Give me a cert! Include extra language like ‘additional insured’, ‘Waiver of Subrogation’, ‘primary and non-contributory’, and whatever else I want it to say!”
 
-Broker: “You’re asking for so much, how about we just give you the policy?”
+__Broker__: “You’re asking for so much, how about we just give you the policy?”
 
-Big client: “No, no, no. I just want the cert and nothing else. Formatted exactly, to the punctuation mark, as my customer has specified. I need the cert to get paid/make deal, etc.”
+__Big client__: “No, no, no. I just want the cert and nothing else. Formatted exactly, to the punctuation mark, as my customer has specified. I need the cert to get paid/make deal, etc.”
 
 What is going on here? The cert specifically states that it is NOT the policy and that the certificate holder should not rely on the information contained therein. Worthless, really. So why do brokers bend over backwards to issue them immediately, why do clients fire brokers if their cert performance falls short, and why does ACORD keep making money off of a document that has no positive value?
 
