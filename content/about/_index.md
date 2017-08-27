@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "Free Advice from an Insurance Professional"
-featured_image: ''
+featured_image: '/images/phillip-gow-332613.jpg'
 ---
 {{< figure src="/images/frank_costa.jpg" title="" >}}
 
