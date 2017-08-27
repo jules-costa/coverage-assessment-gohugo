@@ -1,6 +1,5 @@
 ---
 title: Broker Ploys - Part I
-featured_image: '/images/frank_costa.jpg'
 ---
 
 Who do you want on your side?
