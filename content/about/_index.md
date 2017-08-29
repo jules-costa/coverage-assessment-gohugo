@@ -1,16 +1,14 @@
 ---
 title: "About"
-description: "Free Advice from an Insurance Professional"
+description: "FRANK P. COSTA, CIC, CRM"
 featured_image: '/images/phillip-gow-332613.jpg'
 ---
 {{< figure src="/images/frank_costa.jpg" title="" >}}
 
-Hi, I'm Frank Costa.
+Frank Costa currently leads the growth and profitability of World Insurance Associates, LLC as Chief Operating Officer. Frank’s contribution to World Insurance is focused on enhancing the synergies between clients, colleagues, carriers and strategic alliances.  Frank is responsible for maximizing new business development strategies, organic growth in Commercial and Personal Lines and Benefits, retention and margins.  
 
-I'm the author of Coverage Assessment and just completed my 24th year in the Insurance industry.
+Frank led the Middle Market and Small Commercial Divisions at Frenkel & Company from 2008-2017 and was responsible for 25 employees, 2,600 clients and over $80 million in annual premium.  He founded his own insurance agency in 1989 and successfully grew the firm from -0- to $2 million agency revenue before merging with CLG Insurance in 2001.  Frank was the Sales Manager and lead producer at CLG Insurance 2001-2008 and has mentored 8 producers driving 8% growth in new revenue annually.
 
-I founded my own local New Jersey agency from the basement of my home and grew the firm to over 4,000 clients in 12 years. I transitioned from Agency Principal to Senior VP and Sales Manager of a New York Regional agency. While continuing to serve and grow my clientele, I mentored and managed 8 insurance producers.
+Frank earned his CIC designation in 2007 and his CRM designation in 2008. He is a frequent speaker on topics including: Risk Management Strategies, Contractual Risk Transfer, Construction Operations and Relationships, Emerging Risks, Increasing Profits by Reducing Total Cost of Risk and Controlling Worker's Compensation Experience Rating.  
 
-In 2009, I brought my experience and skill set to an International Brokerage based in New York City and led the Commercial Insurance Division responsible for over $50 million in annual client premiums. I am a Certified Insurance Counselor (CIC), experienced in interpreting insurance policy terms, conditions and provisions.
-
-I attained my Certified Risk Manager (CRM) designation in 2008 and am qualified to perform Risk Assessments, Risk Analysis and Control Implementation for businesses of every size, scope and complexity.
+Frank is the founder of www.coverageassessment.com and the Coverage Assessment method of consulting to commercial insurance clients. Frank serves on the Board of Directors of several non-profit organizations including Grace Church, Gail’s Angel’s and Pushcart Players.
