@@ -1,5 +1,3 @@
-# buildDrafts = false
-
 title = "Coverage Assessment"
 baseURL = "http://www.coverageassessment.com/"
 languageCode = "en-us"
@@ -12,11 +10,6 @@ SectionPagesMenu = "main"
 Paginate = 15 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-
-contentDir = "content"
-layoutDir = "layouts"
-publishDir = "public"
-buildDrafts = true
 
 [sitemap]
   changefreq = "monthly"
