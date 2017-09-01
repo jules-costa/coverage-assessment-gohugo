@@ -1,6 +1,6 @@
----
++++
 title: What's Your House Worth?
----
++++
 Your dwelling is often the largest investment and ongoing expense. Protecting your investment in the home is a primary objective and requires Coverage Assessment.
 
 Let’s start with a quick quiz:

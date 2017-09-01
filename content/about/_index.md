@@ -1,8 +1,8 @@
----
++++
 title: "About"
 description: "FRANK P. COSTA, CIC, CRM"
 featured_image: '/images/phillip-gow-332613.jpg'
----
++++
 {{< figure src="/images/frank_costa.jpg" title="" >}}
 
 Frank Costa currently leads the growth and profitability of World Insurance Associates, LLC as Chief Operating Officer. Frank’s contribution to World Insurance is focused on enhancing the synergies between clients, colleagues, carriers and strategic alliances.  Frank is responsible for maximizing new business development strategies, organic growth in Commercial and Personal Lines and Benefits, retention and margins.  
