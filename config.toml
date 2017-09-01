@@ -11,12 +11,14 @@ Paginate = 15 # this is set low for demonstrating with dummy content. Set to a h
 googleAnalytics = ""
 enableRobotsTXT = true
 
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
 
 [params]
+	date_format = "2006-01-02"
   description = "The last theme you'll ever need. Maybe."
   # facebook = ""
   # twitter = "https://twitter.com/GoHugoIO"
