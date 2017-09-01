@@ -1,7 +1,7 @@
 +++
-title: "About"
-description: "FRANK P. COSTA, CIC, CRM"
-featured_image: '/images/phillip-gow-332613.jpg'
+title = "About"
+description = "FRANK P. COSTA, CIC, CRM"
+featured_image = "/images/phillip-gow-332613.jpg"
 +++
 {{< figure src="/images/frank_costa.jpg" title="" >}}
 

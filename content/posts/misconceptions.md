@@ -1,5 +1,5 @@
 +++
-title: Misconceptions About Insurance
+title = "Misconceptions About Insurance"
 +++
 
 Historically, the insurance industry has done a comparatively poor job in promoting the benefits and value of insurance policies and the professionals that broker coverage. Consumers understandably treat the insurance purchase with the same mindset and process as other more traditional expenses. Many consumers fall into the trap of viewing insurance from a biased perspective before the transaction begins.

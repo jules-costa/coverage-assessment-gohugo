@@ -1,5 +1,5 @@
 +++
-title: The End
+title = "The End"
 +++
 
 I often think about bringing the end to so many outdated and ludicrous things in our society. Someday my compilation of all things that must end will be complete and published. Toll plazas, NY City yellow cabs, the US postal service, casinos, even the brick and mortar office workplace. All of these and many more must end.
