@@ -1,5 +1,6 @@
 +++
 title = "Case Study - Hired/Non-Owned Liability"
+featured_image = ""
 +++
 
 We are so focused on the cost of auto insurance, a little endorsement tends to be overlooked. Here’s a coverage you MUST include on every Commercial Auto policy you place – Hired & Non-Owned Auto Liability.

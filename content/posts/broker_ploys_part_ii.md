@@ -1,5 +1,6 @@
 +++
 title = "Broker Ploys - Part II"
+featured_image = ""
 +++
 
 **Blocking the Market**

@@ -1,5 +1,6 @@
 +++
 title = "What's Your House Worth?"
+featured_image = ""
 +++
 
 Your dwelling is often the largest investment and ongoing expense. Protecting your investment in the home is a primary objective and requires Coverage Assessment.

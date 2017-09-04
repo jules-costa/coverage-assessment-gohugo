@@ -1,5 +1,6 @@
 +++
 title = "Broker Ploys - Part I"
+featured_image = ""
 +++
 
 Who do you want on your side?

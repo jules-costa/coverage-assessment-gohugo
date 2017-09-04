@@ -1,5 +1,6 @@
 +++
 title = "The Basics"
+featured_image = ""
 +++
 
 Many brokers have never experienced the opportunities and the challenges that a hard market presents. Temptations to take shortcuts and to take advantage of clients and carriers will become evident. How brokers respond to these temptations will not only differentiate them from the competition, but will also contribute to the longevity they have in the insurance industry.

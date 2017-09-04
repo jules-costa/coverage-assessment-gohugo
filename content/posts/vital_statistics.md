@@ -1,5 +1,6 @@
 +++
 title = "Vital Statistics"
+featured_image = ""
 +++
 
 Keeping your vital information safe has become more important than ever in this age of data security and privacy infringement. Some vital info is automatic for people to remember: date of birth, social security number, height and weight. For businesses, a vital statistic that all too few principals and CFOs know is the Experience Rating Modification Factor, more commonly referred to as the EMR or the “mod”.
