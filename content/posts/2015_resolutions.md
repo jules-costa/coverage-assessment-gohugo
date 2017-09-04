@@ -1,5 +1,6 @@
 +++
-title = "2015 Resolutions"
+title = "New Year Resolutions"
+featured_image = "/images/frank_costa.jpg"
 +++
 
 Are your 2015 resolutions a distant memory? New Year’s resolutions foster the temptation to find new ways of being more productive, healthier, improving relationships and quality of life advancement. For years, I succumbed to the temptation of making resolutions and experienced some slight, short-lived improvements. Those little accomplishments convinced me that the big “aha” moment was attainable.
